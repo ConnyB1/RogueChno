@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\costco\Documents\.patrones\RogueChno-master (2)\RogueChno-master\src\Game.cpp(365,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\costco\Documents\.patrones\RogueChno-master (2)\RogueChno-master\src\Game.cpp(391,16): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\costco\Documents\.patrones\RogueChno-master (2)\RogueChno-master\src\Game.cpp(414,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\costco\Documents\.patrones\RogueChno-master (2)\RogueChno-master\src\Game.cpp(459,16): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  RogueChno.vcxproj -> C:\Users\costco\Documents\.patrones\RogueChno-master (2)\RogueChno-master\x64\Debug\RogueChno.exe
